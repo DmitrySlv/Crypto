@@ -3,7 +3,6 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        maven { url "https://oss.jfrog.org/libs-snapshot" }
     }
 }
 dependencyResolutionManagement {
